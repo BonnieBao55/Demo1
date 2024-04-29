@@ -11,11 +11,11 @@ public class Restaurant {
     @Id
     String restaurant_id;
 
-    public Restaurant(String borough, 
-            String cuisine, String name, String restaurant_id) {
-        borough = this.borough;
-        cuisine = this.cuisine;
-        name = this.name;
-        restaurant_id = this.restaurant_id;
-    }
+    // public Restaurant(String borough, 
+    //         String cuisine, String name, String restaurant_id) {
+    //     borough = this.borough;
+    //     cuisine = this.cuisine;
+    //     name = this.name;
+    //     restaurant_id = this.restaurant_id;
+    //}
 }
